@@ -1,8 +1,8 @@
 def greet():
-    print("Hello Ravi!")
+    print("Hello Piyush!")
 
 def farewell():
-    print("All The Best")
+    print("All Is Well")
 
 greet()
 farewell()
